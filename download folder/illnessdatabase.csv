@@ -1,0 +1,10 @@
+Illness,Symptom1,Symptom2,Symptom3,Symptom4,Symptom5,"More Information, URL:"
+flu,fever,cough,sore throat,body aches,fatigue,https://www.nhs.uk/conditions/flu/treatment/
+cold,runny nose,sore throat,cough,slight fever,congestion,https://www.nhs.uk/conditions/common-cold/treatment/
+tonsillitis,swollen tonsils,painful to swallow,fever,swollen glands,throaty voice,https://www.nhs.uk/conditions/tonsillitis/treatment/
+food poisoning,nausea,diarrhoea,high temperature,stomach cramps,headaches,https://www.nhs.uk/conditions/food-poisoning/treatment/
+chickenpox,spots,fever,headache,tiredness,loss of appetite,https://www.nhs.uk/conditions/chickenpox/treatment/
+ear infection,ear pain,fever,hearing loss,nausea,trouble sleeping,https://www.nhs.uk/conditions/middle-ear-infection/treatment/
+type 1 diabetes,weight loss,thirst,hunger,mood swings,fatigue,https://www.nhs.uk/conditions/type-1-diabetes/treatment/
+type 2 diabetes,thirst,hunger,blurry vision,fatigue,cuts that won't heal,https://www.nhs.uk/conditions/type-2-diabetes/treatment/
+pancreatitis,nausea,diarrhoea,high temperature,tender stomach,back pains,https://www.nhs.uk/conditions/acute-pancreatitis/treatment/
